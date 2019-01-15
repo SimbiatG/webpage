@@ -1,0 +1,8 @@
+.first{
+	background-image: url('../../img/bird-image.jpg');
+	height: 800px;
+}
+
+.slide{
+	padding: 30px;
+}

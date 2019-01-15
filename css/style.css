@@ -1,0 +1,78 @@
+.first{
+	background-image: url('../img/bird-image.jpg');
+	height: 800px;
+}
+
+.slide{
+	padding-top:290px;
+	text-align: center;
+	color: white;
+}
+
+.container-fliud {
+	position: absolute
+	left: 0;
+	outline: 5px solid black;
+}
+.container-fluid .carousel-indicators {
+	position: absolute;
+	bottom: -70px;
+}
+.second{
+
+	background-color: #ffffff;
+}
+.logo {
+	
+	text-align: center;
+	padding-top: 20px;
+
+}
+ .text{
+	color: #a9a9a9;
+	text-align: center;
+	margin-top: 50px;
+	
+}
+
+.box{
+	border-top:0px;
+	border-right:0px;
+	border-left: 0px;
+	border-radius: 0px;
+	border-color: #d7d7d7;
+}
+
+.letter {
+	color: #a9a9a9;
+		margin-top: 50px;
+}
+.submit{
+	border-radius: 20px;
+	background-color: #696969;
+	padding-right: 70px;
+	padding-left: 70px;
+}
+.sub{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.or{
+	text-align: center;
+	margin-top: 50px;
+	color: #c5c6c4;
+}
+
+.sign{
+	margin-top: 50px;
+	text-align: center;
+
+	
+}
+.create{
+	margin-top: 50px;
+	text-align: center;
+}
